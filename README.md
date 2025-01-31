@@ -1,17 +1,21 @@
-# APIs
-
-## In this repository you'll can find free APIs for your projects
+# APIs - In this repository you'll can find free APIs for your projects
 
 
-### Fake APIs:
+## Fake APIs:
 
 #### JSONPlaceholder
 
 https://jsonplaceholder.typicode.com/
 
 Enter to that link to see the API docs.
+#
+#### JSONPlaceholder
 
-### APIs for songs:
+https://www.jsonplaceholder.org/
+
+Enter to that link to see the API docs.
+#
+## APIs for songs:
 
 #### itunes apple
 
@@ -20,3 +24,4 @@ https://itunes.apple.com/search?entity=song&limit=1&term=acdc
 where term, put the music band you want to search.
 
 e.g. &term=weezer
+#
