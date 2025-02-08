@@ -1,6 +1,13 @@
 # APIs - In this repository you'll can find free APIs for your projects
 
+## CoinDesk API
+https://api.coindesk.com/v1/bpi/currentprice.json
 
+Here bellow you can find more info
+
+https://publicapis.io/coin-desk-api
+
+#
 ## Fake APIs:
 
 #### JSONPlaceholder
