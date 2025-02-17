@@ -1,5 +1,12 @@
 # Python libraries/modules/frameworks
 
+## Pomegranate
+pomegranate is a Python package that implements fast and flexible probabilistic models ranging from individual probability distributions to compositional models such as Bayesian networks and hidden Markov models.
+
+https://pomegranate.readthedocs.io/en/latest/install.html
+
+<code>pip install pomegranate</code>
+
 ## Flask
 for work with backend in web
 
