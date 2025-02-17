@@ -5,6 +5,8 @@ pomegranate is a Python package that implements fast and flexible probabilistic 
 
 https://pomegranate.readthedocs.io/en/latest/install.html
 
+https://github.com/jmschrei/pomegranate
+
 <code>pip install pomegranate</code>
 
 ## Flask
